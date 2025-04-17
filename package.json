@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "final project",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kabirpatel2003"
+  },
+  "author": "kabir",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "sass": "^1.86.3"
+  }
+}
