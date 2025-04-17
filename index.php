@@ -1,6 +1,6 @@
 <?php include 'includes/header.php'; ?>
 
-<h2>Enter a Message</h2>
+<h2>porvide Message</h2>
 <form method="POST" action="php/insert.php">
     <input type="text" name="message" required>
     <button type="submit" name="submit">Submit</button>
