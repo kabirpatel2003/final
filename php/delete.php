@@ -10,5 +10,5 @@ if (isset($_POST['delete'])) {
 }
 
 $conn->close();
-header("Location: showAll.php");
+header("Location: showall.php");
 ?>
